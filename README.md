@@ -6,10 +6,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="100" height="100" />
 
 </p>
-
-
-<p align="center">
- <a href="#" alt="Mohammad Hashemi's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhashemi42&theme=tokyonight&show_icons=true" />
- </a>
-</p>
